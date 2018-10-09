@@ -64,8 +64,6 @@ class NewsListViewController: UITableViewController {
     //MARK: - JSON Parsing
     /***************************************************************/
     
-    
-    //Write the updateWeatherData method here:
     func updateNewsData(json : JSON) {
         //We could get a situation where the connection was successful but the App key was invalid
         //Doing an optional binding saves us from force unwrapping data in the json
