@@ -50,9 +50,9 @@
                                             <nil key="highlightedColor"/>
                                         </label>
                                         <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Mz7-sJ-w1m">
-                                            <rect key="frame" x="275" y="0.0" width="100" height="100"/>
+                                            <rect key="frame" x="275" y="0.0" width="100" height="99.5"/>
                                             <constraints>
-                                                <constraint firstAttribute="height" constant="100" id="109-Aa-PBl"/>
+                                                <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="99" id="109-Aa-PBl"/>
                                                 <constraint firstAttribute="width" constant="100" id="ywS-iz-WwJ"/>
                                             </constraints>
                                         </imageView>
