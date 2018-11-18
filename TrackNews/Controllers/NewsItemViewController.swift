@@ -22,11 +22,11 @@ class NewsItemViewController: UIViewController, WKNavigationDelegate {
         
         if let urlString = urlString {
             guard let url = URL(string: urlString) else { return }
+            view.addSubview(webView)
             webView.frame = view.bounds
             webView.navigationDelegate = self
             webView.load(URLRequest(url: url))
             webView.autoresizingMask = [.flexibleWidth,.flexibleHeight]
-            view.addSubview(webView)
         }
     }
     

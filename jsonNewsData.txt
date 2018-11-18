@@ -1,0 +1,266 @@
+{
+  "totalResults" : 51468,
+  "status" : "ok",
+  "articles" : [
+    {
+      "url" : "https:\/\/www.engadget.com\/2018\/09\/12\/apple-and-google-data-privacy-senate-testimony\/",
+      "title" : "Apple and Google will testify to Senate on data privacy September 26th",
+      "urlToImage" : "https:\/\/o.aolcdn.com\/images\/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4441%252C2959%252C0%252C332%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1066%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F467a0b0b1c55fdf9fa97dd00b25bed1f%252F206233795%252Funited-states-capital-building-picture-id861372600%26client%3Da1acac3e1b3290917d92%26signature%3D728a567c3b9bc4750c866dc488adb30b883c847c&client=amp-blogside-v2&signature=51394f36e4610ddedfbf6c8492577dd03b7d3285",
+      "description" : "More tech companies are about to face congressional scrutiny. Leaders from Amazon, Apple, AT&T, Charter and Google are scheduled to testify before a US Senate panel at a data privacy hearing on September 26th. Senators will grill the companies on their existi…",
+      "content" : "To some extent, you may know how companies will respond. Apple, for instance, has positioned itself as a champion of privacy and implemented policies insisting on privacy even for third-parties. Similarly, telecoms like AT&amp;T have insisted that they don't … [+212 chars]",
+      "publishedAt" : "2018-09-12T15:36:00Z",
+      "source" : {
+        "name" : "Engadget",
+        "id" : "engadget"
+      },
+      "author" : "Jon Fingas"
+    },
+    {
+      "url" : "http:\/\/techcrunch.com\/2018\/09\/19\/ghostery-mobile-browsers\/",
+      "title" : "Ghostery revamps its privacy-focused mobile browsers",
+      "urlToImage" : "https:\/\/techcrunch.com\/wp-content\/uploads\/2018\/09\/iOS_G8.png?w=532",
+      "description" : "Ghostery is launching new versions of its browsers for iOS and Android. In fact, Director of Product Jeremy Tillman said this is the first big update to Ghostery’s mobile browsers in several years. It’s not that mobile wasn’t a priority for the team before th…",
+      "content" : "Ghostery is launching new versions of its browsers for iOS and Android. In fact, Director of Product Jeremy Tillman said this is the first big update to Ghostery’s mobile browsers in several years. It’s not that mobile wasn’t a priority for the team before th… [+2260 chars]",
+      "publishedAt" : "2018-09-19T14:52:00Z",
+      "source" : {
+        "name" : "TechCrunch",
+        "id" : "techcrunch"
+      },
+      "author" : "Anthony Ha"
+    },
+    {
+      "url" : "https:\/\/www.wired.com\/story\/congress-privacy-hearing-big-tech-questions\/",
+      "title" : "What's Left for Congress to Ask Big Tech Firms? A Lot",
+      "urlToImage" : "https:\/\/media.wired.com\/photos\/5ba9937a235b00769c2682e0\/191:100\/pass\/Congress-and-Tech-944393074-2w.jpg",
+      "description" : "Executives from Amazon, Twitter, Google, and other tech companies head to Washington for another hearing on privacy, but this time the threat of regulation carries new weight.",
+      "content" : "Executives from Apple, Amazon, Twitter, Google, AT&amp;T, and Charter Communications are heading to Washington Wednesday to testify before the Senate Commerce Committee on the topic of privacy. As ever, the main question will be: Are these companies doing eno… [+11238 chars]",
+      "publishedAt" : "2018-09-25T22:57:31Z",
+      "source" : {
+        "name" : "Wired",
+        "id" : "wired"
+      },
+      "author" : "Issie Lapowsky"
+    },
+    {
+      "url" : "http:\/\/techcrunch.com\/2018\/09\/25\/france-records-big-jump-in-privacy-complaints-since-gdpr\/",
+      "title" : "France records big jump in privacy complaints since GDPR",
+      "urlToImage" : "https:\/\/techcrunch.com\/wp-content\/uploads\/2015\/08\/368912557_2fc44d3709_b.jpg?w=596",
+      "description" : "Another European data protection agency has reported a sharp rise in the numbers of complaints since the EU updated its privacy framework four months ago, when GDPR came into force, updating regional data protection rules and introducing much higher penalties…",
+      "content" : "Another European data protection agency has reported a sharp rise in the numbers of complaints since the EU updated its privacy framework four months ago, when GDPR came into force, updating regional data protection rules and introducing much higher penalties… [+3045 chars]",
+      "publishedAt" : "2018-09-25T14:43:39Z",
+      "source" : {
+        "name" : "TechCrunch",
+        "id" : "techcrunch"
+      },
+      "author" : "Natasha Lomas"
+    },
+    {
+      "url" : "https:\/\/www.wired.com\/story\/location-tracking-apps-target-kids\/",
+      "title" : "Kid-Focused Apps Track Location, UK Spying, and More Security News This Week",
+      "urlToImage" : "https:\/\/media.wired.com\/photos\/5b9c16751ab9432d396266ea\/191:100\/pass\/gametracking-01.jpg",
+      "description" : "In security news this week, some apps for children may violate privacy laws, State Department devices might be less secure than your Instagram account, and more.",
+      "content" : "Tesla is in the news again this week, but this time it has nothing to do with fires or Twitter or Elon Musk smoking weed. Instead, it’s because hackers figured out how to steal a Tesla Model S by cloning its key fob. WIRED’s resident car-hacking reporter Andy… [+3886 chars]",
+      "publishedAt" : "2018-09-15T13:00:00Z",
+      "source" : {
+        "name" : "Wired",
+        "id" : "wired"
+      },
+      "author" : "Emily Dreyfuss"
+    },
+    {
+      "url" : "http:\/\/techcrunch.com\/2018\/09\/24\/security-researcher-claims-macos-mojave-privacy-bug-on-launch-day\/",
+      "title" : "Security researcher claims macOS Mojave privacy bug on launch day",
+      "urlToImage" : "https:\/\/techcrunch.com\/wp-content\/uploads\/2018\/09\/GettyImages-686433678.jpg?w=600",
+      "description" : "A security researcher has claimed a new vulnerability in the latest version of macOS — just hours before the software is due to be released. Patrick Wardle, chief researcher officer at Digita Security, tweeted a video Monday of an apparent privacy feature byp…",
+      "content" : "A security researcher has claimed a new vulnerability in the latest version of macOS just hours before the software is due to be released. Patrick Wardle, chief researcher officer at Digita Security, tweeted a video Monday of an apparent privacy feature bypas… [+2544 chars]",
+      "publishedAt" : "2018-09-24T16:42:25Z",
+      "source" : {
+        "name" : "TechCrunch",
+        "id" : "techcrunch"
+      },
+      "author" : "Zack Whittaker"
+    },
+    {
+      "url" : "https:\/\/vitals.lifehacker.com\/how-to-protect-your-privacy-when-seeking-mental-health-1828974378",
+      "title" : "How to Protect Your Privacy When Seeking Mental Health Treatment at School",
+      "urlToImage" : "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--G0t9_MHF--\/c_fill,fl_progressive,g_center,h_900,q_80,w_1600\/aupjfrpiixc8zixxztxn.jpg",
+      "description" : "Colleges and universities often offer mental health counseling as a free service, but school counselors aren’t always required to keep your information private. Here are your options, and what to know, if you want to seek help confidentially. Read more...",
+      "content" : "Colleges and universities often offer mental health counseling as a free service, but school counselors aren’t always required to keep your information private. Here are your options, and what to know, if you want to seek help confidentially. School Counselor… [+4596 chars]",
+      "publishedAt" : "2018-09-11T19:00:00Z",
+      "source" : {
+        "name" : "Lifehacker.com",
+        "id" : null
+      },
+      "author" : "Beth Skwarecki on Vitals, shared by Beth Skwarecki to Lifehacker"
+    },
+    {
+      "url" : "https:\/\/lifehacker.com\/ditch-gmail-with-these-alternatives-1829337583",
+      "title" : "Ditch Gmail With These Alternatives",
+      "urlToImage" : "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--l9OPOO3M--\/c_fill,fl_progressive,g_center,h_900,q_80,w_1600\/hvy7n2hkdizuiqgmim12.png",
+      "description" : "It’s not a stretch to assume you probably use Gmail—it seems like most of the world does, these days. That reality has created consternation over some of the recent privacy and security-related changes to Gmail and Google Chrome. Read more...",
+      "content" : "Its not a stretch to assume you probably use Gmailit seems like most of the world does, these days. That reality has created consternation over some of the recent privacy and security-related changes to Gmail and Google Chrome. This isnt a sudden pivot. For y… [+11666 chars]",
+      "publishedAt" : "2018-09-26T20:00:00Z",
+      "source" : {
+        "name" : "Lifehacker.com",
+        "id" : null
+      },
+      "author" : "Brendan Hesse"
+    },
+    {
+      "url" : "https:\/\/www.nytimes.com\/2018\/09\/27\/us\/politics\/christine-blasey-ford-testimony.html",
+      "title" : "With Caffeine and Determination, Christine Blasey Ford Relives Her Trauma",
+      "urlToImage" : "https:\/\/static01.nyt.com\/images\/2018\/09\/28\/us\/politics\/28dc-blasey-sub\/28dc-blasey-sub-facebookJumbo.jpg",
+      "description" : "Surrounded by her lawyers, publicists and a sisterhood of friends who had convened to support her and zealously protect her privacy, Dr. Blasey said her piece.",
+      "content" : "She needed some time to herself to center, and she had some last-minute conversations with her attorneys to go through her opening statement and just feel like she could get through it without losing her center, said Samantha Guerry, a former Holton-Arms clas… [+2061 chars]",
+      "publishedAt" : "2018-09-28T00:39:12Z",
+      "source" : {
+        "name" : "The New York Times",
+        "id" : "the-new-york-times"
+      },
+      "author" : "JULIE HIRSCHFELD DAVIS"
+    },
+    {
+      "url" : "https:\/\/gizmodo.com\/scientist-who-quit-google-in-protest-urges-senate-to-in-1829310832",
+      "title" : "Scientist Who Quit Google in Protest Urges Senate to Investigate Project Dragonfly",
+      "urlToImage" : "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--0Ai8cIzu--\/c_fill,fl_progressive,g_center,h_900,q_80,w_1600\/fknue2cqxzzd4np4ysry.jpg",
+      "description" : "Today, representatives from tech companies including Amazon, Apple, AT&amp;T, Facebook, Twitter, and Google will testify before the Senate Commerce Committee on issues of consumer data privacy at a hearing with the limply stated purpose of finding “what Congr…",
+      "content" : "Today, representatives from tech companies including Amazon, Apple, AT&amp;T, Facebook, Twitter, and Google will testify before the Senate Commerce Committee on issues of consumer data privacy at a hearing with the limply stated purpose of finding what Congre… [+6322 chars]",
+      "publishedAt" : "2018-09-26T14:01:00Z",
+      "source" : {
+        "name" : "Gizmodo.com",
+        "id" : null
+      },
+      "author" : "Bryan Menegus"
+    },
+    {
+      "url" : "http:\/\/techcrunch.com\/2018\/09\/24\/security-experts-say-chrome-69s-forced-login-feature-violates-user-privacy\/",
+      "title" : "Security experts say Chrome 69’s ‘forced login’ feature violates user privacy",
+      "urlToImage" : "https:\/\/techcrunch.com\/wp-content\/uploads\/2018\/09\/google-chrome-app.jpg?w=600",
+      "description" : "A new feature in the latest version of Google Chrome that logs users into the browser when they sign in to a Google site has come under fire. Until recently, it was the user’s choice to log-in to the browser. Now, any time that you sign in to a Google site in…",
+      "content" : "A new feature in the latest version of Google Chrome that logs users into the browser when they sign in to a Google site has come under fire. Until recently, it was the user’s choice to log-in to the browser. Now, any time that you sign in to a Google site in… [+3060 chars]",
+      "publishedAt" : "2018-09-24T13:45:36Z",
+      "source" : {
+        "name" : "TechCrunch",
+        "id" : "techcrunch"
+      },
+      "author" : "Zack Whittaker"
+    },
+    {
+      "url" : "http:\/\/techcrunch.com\/2018\/09\/18\/call-for-smart-home-devices-to-bake-in-privacy-safeguards-for-kids\/",
+      "title" : "Call for smart home devices to bake in privacy safeguards for kids",
+      "urlToImage" : "https:\/\/techcrunch.com\/wp-content\/uploads\/2017\/08\/alexa-echo-pink.png?w=565",
+      "description" : "A new research report has raised concerns about how in-home smart devices such as AI virtual voice assistants, smart appliances, and security and monitoring technologies could be gathering and sharing children’s data. It calls for new privacy measures to safe…",
+      "content" : "A new research report has raised concerns about how in-home smart devices such as AI virtual voice assistants, smart appliances, and security and monitoring technologies could be gathering and sharing children’s data. It calls for new privacy measures to safe… [+6290 chars]",
+      "publishedAt" : "2018-09-18T23:01:26Z",
+      "source" : {
+        "name" : "TechCrunch",
+        "id" : "techcrunch"
+      },
+      "author" : "Natasha Lomas"
+    },
+    {
+      "url" : "http:\/\/techcrunch.com\/2018\/09\/26\/google-to-give-chrome-users-an-opt-out-to-forced-login-after-privacy-backlash\/",
+      "title" : "Google to give Chrome users an opt-out to ‘forced login’ after privacy backlash",
+      "urlToImage" : "https:\/\/techcrunch.com\/wp-content\/uploads\/2018\/05\/gettyimages-486305802.jpg?w=600",
+      "description" : "Google has responded to blowback about a privacy hostile change it made this week, which removes user agency by automating Chrome browser sign-ins, by rowing back slightly — saying it will give users the ability to disable this linking of web-based sign-in wi…",
+      "content" : "Google has responded to blowback about a privacy hostile change it made this week, which removes user agency by automating Chrome browser sign-ins, by rowing back slightly — saying it will give users the ability to disable this linking of web-based sign-in wi… [+7733 chars]",
+      "publishedAt" : "2018-09-26T10:16:43Z",
+      "source" : {
+        "name" : "TechCrunch",
+        "id" : "techcrunch"
+      },
+      "author" : "Natasha Lomas"
+    },
+    {
+      "url" : "https:\/\/lifehacker.com\/keep-your-data-secure-with-mozillas-newest-tools-1829304577",
+      "title" : "Keep Your Data Secure With Mozilla's Newest Tools",
+      "urlToImage" : "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--2AzMpqrV--\/c_fill,fl_progressive,g_center,h_900,q_80,w_1600\/fpe20irhpbegkohcks3j.png",
+      "description" : "Mozilla has been on a tear for data security and privacy lately, and we applaud that. Keeping your information safe from the prying eyes (and hacks) of others should be at the top of your mind every time you sign up for a new service or mess around on the web…",
+      "content" : "Mozilla has been on a tear for data security and privacy lately, and we applaud that. Keeping your information safe from the prying eyes (and hacks) of others should be at the top of your mind every time you sign up for a new service or mess around on the web… [+1279 chars]",
+      "publishedAt" : "2018-09-26T15:00:00Z",
+      "source" : {
+        "name" : "Lifehacker.com",
+        "id" : null
+      },
+      "author" : "David Murphy"
+    },
+    {
+      "url" : "http:\/\/techcrunch.com\/2018\/09\/11\/google-back-in-court-arguing-against-a-global-right-to-be-forgotten\/",
+      "title" : "Google back in court arguing against a global ‘right to be forgotten’",
+      "urlToImage" : "https:\/\/techcrunch.com\/wp-content\/uploads\/2014\/11\/p1030378.jpg?w=533",
+      "description" : "Google’s lawyers are in Europe’s top court today arguing against applying the region’s so-called ‘right to be forgotten’ ruling globally domains, rather only geo-limiting delistings to European sub-domains (as it does now). The original rtbf ruling was also a…",
+      "content" : "Google’s lawyers are in Europe’s top court today arguing against applying the region’s so-called ‘right to be forgotten’ ruling globally domains, rather only geo-limiting delistings to European sub-domains (as it does now). The original rtbf ruling was also a… [+4879 chars]",
+      "publishedAt" : "2018-09-11T09:54:44Z",
+      "source" : {
+        "name" : "TechCrunch",
+        "id" : "techcrunch"
+      },
+      "author" : "Natasha Lomas"
+    },
+    {
+      "url" : "https:\/\/gizmodo.com\/tech-execs-offer-senate-help-writing-a-toothless-nation-1829331455",
+      "title" : "Tech Execs Offer Senate Help Writing a Toothless National Privacy Law",
+      "urlToImage" : "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--BlePMte---\/c_fill,fl_progressive,g_center,h_900,q_80,w_1600\/ipjxg1qijfzh7ljvphgu.png",
+      "description" : "Executives at six of the nation’s largest internet and technology companies gathered Wednesday on Capitol Hill for a data-privacy hearing called in response to growing concerns over the comparatively inadequate protections offered to consumers under U.S. law.…",
+      "content" : "Executives at six of the nations largest internet and technology companies gathered Wednesday on Capitol Hill for a data-privacy hearing called in response to growing concerns over the comparatively inadequate protections offered to consumers under U.S. law. … [+5252 chars]",
+      "publishedAt" : "2018-09-26T16:38:00Z",
+      "source" : {
+        "name" : "Gizmodo.com",
+        "id" : null
+      },
+      "author" : "Dell Cameron"
+    },
+    {
+      "url" : "https:\/\/gizmodo.com\/google-chrome-is-now-quietly-forcing-you-to-log-in-here-1829265681",
+      "title" : "Google Chrome Is Now Quietly Forcing You to Log In—Here's What to Do About It",
+      "urlToImage" : "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--TVq-xS8H--\/c_fill,fl_progressive,g_center,h_900,q_80,w_1600\/sbe3tymqiamlp9bonzbu.jpg",
+      "description" : "Once again, Google has rankled privacy-focused people with a product change that appears to limit users’ options. It’s easy to miss the fact that you’re automatically being logged-in to Chrome if you’re not paying attention. Read more...",
+      "content" : "Once again, Google has rankled privacy-focused people with a product change that appears to limit users options. Its easy to miss the fact that youre automatically being logged-in to Chrome if youre not paying attention. Chrome 69 released to users on Septemb… [+3340 chars]",
+      "publishedAt" : "2018-09-24T14:55:00Z",
+      "source" : {
+        "name" : "Gizmodo.com",
+        "id" : null
+      },
+      "author" : "Rhett Jones"
+    },
+    {
+      "url" : "https:\/\/gizmodo.com\/supreme-court-restricts-indias-colossal-biometric-datab-1829328833",
+      "title" : "Supreme Court Restricts India's Colossal Biometric Database",
+      "urlToImage" : "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--RCT8-IwM--\/c_fill,fl_progressive,g_center,h_900,q_80,w_1600\/mnzardzizpj5veqhv60y.jpg",
+      "description" : "India’s Supreme Court ruled on Wednesday that the country’s sweeping biometric database does not violate privacy rights. But the panel of five judges did decide to place restrictions on the program, according to the Times of India. Read more...",
+      "content" : "Indias Supreme Court ruled on Wednesday that the countrys sweeping biometric database does not violate privacy rights. But the panel of five judges did decide to place restrictions on the program, according to the Times of India. Under the Aadhaar system, all… [+1799 chars]",
+      "publishedAt" : "2018-09-26T15:55:00Z",
+      "source" : {
+        "name" : "Gizmodo.com",
+        "id" : null
+      },
+      "author" : "Jennings Brown"
+    },
+    {
+      "url" : "http:\/\/techcrunch.com\/2018\/09\/20\/equifax-slapped-with-uks-maximum-penalty-over-2017-data-breach\/",
+      "title" : "Equifax slapped with UK’s maximum penalty over 2017 data breach",
+      "urlToImage" : "https:\/\/techcrunch.com\/wp-content\/uploads\/2017\/09\/rtx3fbvg.jpg?w=589",
+      "description" : "Credit rating giant Equifax has been issued with the maximum possible penalty by the UK’s data protection agency for last year’s massive data breach. Albeit, the fine is only £500,000 because the loss of customer data occurred when the UK’s prior privacy regi…",
+      "content" : "Credit rating giant Equifax has been issued with the maximum possible penalty by the UK’s data protection agency for last year’s massive data breach. Albeit, the fine is only £500,000 because the loss of customer data occurred when the UK’s prior privacy regi… [+6359 chars]",
+      "publishedAt" : "2018-09-20T09:07:25Z",
+      "source" : {
+        "name" : "TechCrunch",
+        "id" : "techcrunch"
+      },
+      "author" : "Natasha Lomas"
+    },
+    {
+      "url" : "http:\/\/techcrunch.com\/2018\/10\/01\/facebook-breach-europe\/",
+      "title" : "Facebook breach hit up to 5M EU users, and it faces up to $1.63B in fines",
+      "urlToImage" : "https:\/\/techcrunch.com\/wp-content\/uploads\/2018\/10\/facebook-gdpr.jpg?w=740",
+      "description" : "Less than 10 percent of the 50 million users attacked in Facebook’s recent breach lived in the European Union, tweeted the Irish Data Protection Commission which oversees privacy in the region. However, Facebook still could be liable for up to $1.63 billion i…",
+      "content" : "Less than 10 percent of the 50 million users attacked in Facebook’s recent breach lived in the European Union, tweeted the Irish Data Protection Commission which oversees privacy in the region. However, Facebook still could be liable for up to $1.63 billion i… [+1847 chars]",
+      "publishedAt" : "2018-10-01T20:17:38Z",
+      "source" : {
+        "name" : "TechCrunch",
+        "id" : "techcrunch"
+      },
+      "author" : "Josh Constine"
+    }
+  ]
+}
